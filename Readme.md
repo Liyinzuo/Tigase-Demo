@@ -27,3 +27,9 @@
 ## 配置
 - admin 超管控制台，基本所有的配置都在这里配置
 - rest,server,ui,setup 等等
+
+## 证书
+- 证书直接在admin中配置不使用证书或者生成自签名证书修改/tigase/certs/下servername的pem证书就可以
+
+## 使用
+- 代码中
